@@ -10,7 +10,7 @@
 4.Quiero que tenga unos leds que marquen si llegas a una meta de entre unos 50 , 100 , 150 , 200 etc... (de 50 en 50) puntos.
 
 5.Voy a añadirle un sistema de reinicio automatico para poder reinicar el juego cada vez que pierdas.
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F786792997373133781%2F&psig=AOvVaw1HmFwYt-idkhqY0t25kRGQ&ust=1619605879791000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNj_75qcnvACFQAAAAAdAAAAABAE)
+![](https://github.com/reverte04/PROYECTO-VIDEOJUEGO/blob/main/gameover.jpg)
 
 6.Obstaculos al azar [obstaculo](https://www.google.com/search?q=obstaculos+pixel+art&tbm=isch&ved=2ahUKEwiyoqyO_53wAhVRNRoKHW21BrgQ2-cCegQIABAA&oq=obstaculos+pixel+art&gs_lcp=CgNpbWcQAzoHCCMQ6gIQJzoCCAA6CAgAELEDEIMBOgUIABCxAzoECAAQQzoGCAAQCBAeOgQIABAYOgYIABAFEB5QrPQDWPLfBGDq4wRoCXAAeACAAVmIAdsRkgECMjiYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABCsABAQ&sclient=img&ei=dcmHYPKTNtHqaO3qmsAL&bih=974&biw=1920&client=ubuntu&hs=MFh#imgrc=fb8nW_WR9HdaAM)
 
