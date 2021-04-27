@@ -1,5 +1,7 @@
 # PROYECTO-VIDEOJUEGO JAVIER REVERTE
 
+Proceso de creación ()
+
 ### Ideas para el pyoyecto.
 1.Quiero hacer un videojuego estilo geometry dash [geometry dash](https://es.wikipedia.org/wiki/Geometry_Dash)
 
