@@ -20,7 +20,7 @@
 [diseño de personaje](https://www.google.com/search?q=pixel+art+low+res&tbm=isch&ved=2ahUKEwjypK31-Z3wAhVNgM4BHQ_rAaQQ2-cCegQIABAA&oq=pixel+art++low+&gs_lcp=CgNpbWcQARgAMgQIABATMgQIABATMggIABAIEB4QEzIICAAQCBAeEBMyCAgAEAgQHhATMggIABAIEB4QEzIICAAQCBAeEBMyCAgAEAgQHhATMggIABAIEB4QEzIICAAQCBAeEBM6BwgAELEDEEM6BAgAEEM6AggAUI5IWKdoYP6CAWgBcAB4AIABtwGIAdIFkgEDNi4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=A8SHYLKXEs2Aur4Pj9aHoAo&bih=974&biw=1920&client=ubuntu&hs=hZ1#imgrc=1esKBastE49mTM)
 
 ## PRIMERA PRUEBA DE DISEÑO DE PROGRAMACIÓN 
-[PRIMERA PRUEBA](https://github.com/reverte04/PROYECTO-VIDEOJUEGO/blob/main/primer_dise_o.ino)
+[PRIMERA PRUEBA](https://github.com/reverte04/PROYECTO-VIDEOJUEGO/blob/main/primer_dise_o.ino) En la primera prueba he hecho un personaje y un obstaculo, para saber anvientar el paisaje del videojuego.
 
 
 ### Diseño de caja 
