@@ -24,6 +24,8 @@
 
 [SEGUNDA PRUEBA](https://github.com/reverte04/PROYECTO-VIDEOJUEGO/blob/main/dise_o_2.ino) En esta segunda prueba de diseño he hecho otra pidra mas y un sol para el relleno del videojuego y el paisaje, para que vaya cojiendo forma y estructura a la par que buena vista para las personas que lo juegen.
 
+[TERCERA PRUEBA](https://github.com/reverte04/PROYECTO-VIDEOJUEGO/blob/main/dise_o_3.ino) En la tercera prueba he segudo metiendo obstaculos en el paisaje para el videojuego
+
 
 ### Diseño de caja 
 El diseño de la caja va a ser parecida a la de una gameboy advance.
