@@ -11,7 +11,7 @@
 
 5.Un sistema de reinicio al perder.
 
-6.Obstaculos al azar.
+6.Obstaculos al azar [obstaculo](https://www.google.com/search?q=obstaculos+pixel+art&tbm=isch&ved=2ahUKEwiyoqyO_53wAhVRNRoKHW21BrgQ2-cCegQIABAA&oq=obstaculos+pixel+art&gs_lcp=CgNpbWcQAzoHCCMQ6gIQJzoCCAA6CAgAELEDEIMBOgUIABCxAzoECAAQQzoGCAAQCBAeOgQIABAYOgYIABAFEB5QrPQDWPLfBGDq4wRoCXAAeACAAVmIAdsRkgECMjiYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABCsABAQ&sclient=img&ei=dcmHYPKTNtHqaO3qmsAL&bih=974&biw=1920&client=ubuntu&hs=MFh#imgrc=fb8nW_WR9HdaAM)
 
 ## PROGRAMACION
 
