@@ -1,7 +1,7 @@
 # PROYECTO-VIDEOJUEGO JAVIER REVERTE
 
 ### Ideas para el pyoyecto.
-1.Hacer un videojuego estilo geometry dash.
+1.Quiero hacer un videojuego estilo geometry dash[geometry dash](https://es.wikipedia.org/wiki/Geometry_Dash)
 
 2.Hacer una caja parecida a la de la gameboy advance. 
 
