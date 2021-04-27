@@ -3,7 +3,7 @@
 ### Ideas para el pyoyecto.
 1.Quiero hacer un videojuego estilo geometry dash [geometry dash](https://es.wikipedia.org/wiki/Geometry_Dash)
 
-2.Hacer una caja parecida a la de la gameboy advance. 
+2.Quiero hacer una caja parecida a la de la gameboy advance [gameboyadvance](https://www.google.com/search?q=game+boy+advance&client=ubuntu&hs=MFh&channel=fs&sxsrf=ALeKk01UeMsJCAGT5jhGnFxo53W9KIAG-g:1619511572106&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjdz9vf_p3wAhUr8uAKHT-qAWsQ_AUoAXoECAEQAw&biw=1920&bih=974#imgrc=LWfirzSWrqVU-M)  
 
 3.Todo controlado con el joystick. 
 
