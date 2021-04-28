@@ -26,6 +26,8 @@
 
 [TERCERA PRUEBA](https://github.com/reverte04/PROYECTO-VIDEOJUEGO/blob/main/dise_o_3.ino) En la tercera prueba he segudo metiendo obstaculos en el paisaje para el videojuego
 
+[CUARTA PRUEBA](https://github.com/reverte04/PROYECTO-VIDEOJUEGO/blob/main/proyecto_4.ino) En la cuarta prueba mas que nada lo que he hecgo es modificar los obstaculos para que queden mas originales y mas bonitos.
+
 
 ### Diseño de caja 
 El diseño de la caja va a ser parecida a la de una gameboy advance.
