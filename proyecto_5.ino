@@ -7,20 +7,22 @@ LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 unsigned long tiempoTranscurrido = 0;
 long interval = 200;
 unsigned long tiempoAnterior = 0;
-int posicionXjugador = 0;
+int posicionXjugador = 1;
 int posicionYjugador = 1;
 int posicionXpared1 = 15;
-int posicionYpared1 = 1; 
-class pared1{
-  public:
+int posicionYpared1 = 1;
+int val; 
+const int BOTON = 9;
+bool salto = false;
 
-};
 
 
 
 
  void setup() {
 
+  pinMode(BOTON,INPUT);
+  
   lcd.createChar(0, player1);
   lcd.createChar(1, pared1);
   lcd.createChar(2, pared2);
@@ -55,6 +57,14 @@ class pared1{
 void loop() {
   tiempoTranscurrido = millis();
   if (tiempoTranscurrido - tiempoAnterior > interval) {
+  val=digitalRead(BOTON);
+  if  (val==HIGH){
+  salto = true;
+
+  }
+  else{
+   salto = false;
+  }
     
   actualizarPantalla();
   tiempoAnterior = tiempoTranscurrido;
@@ -65,13 +75,18 @@ void loop() {
 
  void actualizarPantalla () {
  lcd.clear();
+ if(salto) {
+  posicionYjugador=0;
+ }
+ else{
+  posicionYjugador=1;
+ }
  lcd.setCursor(posicionXjugador, posicionYjugador);
  lcd.write(byte(0)); // este es el jugador
- posicionXjugador++;
+
  lcd.setCursor(posicionXpared1, posicionYpared1);
  lcd.write(byte(5)); // esta es la pared1
  posicionXpared1--;
- 
 }
  
   
