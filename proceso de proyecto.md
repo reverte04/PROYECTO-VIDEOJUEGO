@@ -30,6 +30,8 @@
 
 [QUINTA PRUEBA](https://github.com/reverte04/PROYECTO-VIDEOJUEGO/blob/main/proyecto_5.ino) En esta quinta prueba he conseguido que el personaje y un obstaculo se muevan.
 
+[SEXTA PRUEBA](https://github.com/reverte04/PROYECTO-VIDEOJUEGO/blob/main/proyecto_5.ino) En esta sexta prueba lo que he hecho es hacer que el personaje se mueva de posicion arriba y abajo manteniendo el boton pulsado, si tienes el boton pulsado el personaje sube y si lo sueltas baja.
+
 
 ### Diseño de caja 
 El diseño de la caja va a ser parecida a la de una gameboy advance.
