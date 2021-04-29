@@ -32,6 +32,8 @@
 
 [SEXTA PRUEBA](https://github.com/reverte04/PROYECTO-VIDEOJUEGO/blob/main/proyecto_5.ino) En esta sexta prueba lo que he hecho es hacer que el personaje se mueva de posicion arriba y abajo manteniendo el boton pulsado, si tienes el boton pulsado el personaje sube y si lo sueltas baja.
 
+[SEPIMA PRUEBA](https://github.com/reverte04/PROYECTO-VIDEOJUEGO/blob/main/proyecto_6.ino) En esta septima prueba lo que e hecho es que si la posicion del jugador = a pisicion del objeto el juego se acabe y en la pantalla salga game over.
+
 
 ### Diseño de caja 
 El diseño de la caja va a ser parecida a la de una gameboy advance.
