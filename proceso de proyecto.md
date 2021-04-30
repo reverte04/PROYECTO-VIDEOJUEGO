@@ -38,3 +38,7 @@
 ### Diseño de caja 
 El diseño de la caja va a ser parecida a la de una gameboy advance.
 Medidas de arduino, ancho: 9,8cm alto: 12cm, para hacer 
+
+[Diseño de caja](https://github.com/reverte04/PROYECTO-VIDEOJUEGO/blob/main/CAJA%20VIDEOJUEGO.stl) Este es el diseño de la caja sin la tampa, es una caja basica echa a medida del arduino.
+
+[Diseño de tapa](https://github.com/reverte04/PROYECTO-VIDEOJUEGO/blob/main/TAPA%20VIDEOUJUEGO.stl) Este es el diseño de la tapa, esta mucho mas currado ya que tiene mas diseño y no es tan basica.
