@@ -46,4 +46,4 @@ Medidas de arduino, ancho: 9,8cm alto: 12cm, para hacer
 
 ### POWER POINT PARA LA PRESENTACION
 
-[POWER](https://github.com/reverte04/PROYECTO-VIDEOJUEGO/blob/main/PROYECTO%20REVERTE.odp)
+[POWER POINT](https://github.com/reverte04/PROYECTO-VIDEOJUEGO/blob/main/PROYECTO%20REVERTE.odp)
