@@ -46,4 +46,12 @@ Medidas de arduino, ancho: 9,8cm alto: 12cm, para hacer
 
 ### POWER POINT PARA LA PRESENTACION
 
-[POWER POINT](https://github.com/reverte04/PROYECTO-VIDEOJUEGO/blob/main/PROYECTO%20REVERTE.odp)
+[POWER-POINT](https://github.com/reverte04/PROYECTO-VIDEOJUEGO/blob/main/PROYECTO%20REVERTE.odp)
+
+### OTROS TIPOS DE VIDEOJUEGOS DE ARDUINO 
+
+[SIMÓN DICE](https://create.arduino.cc/projecthub/ctc101arzobispo/juego-simon-dice-2f3779)
+
+[TRES EN RAYA](https://create.arduino.cc/projecthub/nickthegreek82/arduino-touch-tic-tac-toe-game-792816?ref=tag&ref_id=games&offset=11)
+
+[ROBOT CONTROL REMOTO PS3](https://create.arduino.cc/projecthub/igorF2/arduino-robot-with-ps2-controller-playstation-2-joystick-85bddc?ref=tag&ref_id=games&offset=12)
